@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Founders Grotesk';
+  src:  url('./Founders\ Grotesk/FoundersGrotTest-Regular.woff') format('woff');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Founders Grotesk Mono';
+  src:  url('./Founders\ Grotesk\ Mono/FoundersGrotMonoTest-Regular.woff') format('woff');
+  font-weight: 500;
+}
